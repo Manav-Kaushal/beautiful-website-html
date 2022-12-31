@@ -284,6 +284,9 @@ nav {
 .social-links img {
   padding: 0px 20px;
 }
+.social-links a {
+  text-decoration: none;
+}
 
 .logo,
 .menu {
